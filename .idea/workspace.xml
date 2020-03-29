@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Memory Game:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3354ced-e30c-4e41-9bf2-e6f9c688f08e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YoWasEzPKezNiKThiRaw2kAMpC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="178" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="236" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game" />
+      <module name="Memory Game" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3354ced-e30c-4e41-9bf2-e6f9c688f08e" name="Default Changelist" comment="" />
+      <created>1583609493616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583609493616</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Inspections" timestamp="1584790215857">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1584790215857" />
+    <state x="421" y="6" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form" timestamp="1583609960470">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="6" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form/0.0.1280.680@0.0.1280.680" timestamp="1583609960470" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583611565175">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1583611565175" />
+    <state x="407" y="144" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584727588338">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="407" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1584727588338" />
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1584863265329">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1584863265329" />
+    <state x="371" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584898085429">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1584898085429" />
+    <state x="371" y="131" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1584816767844">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="131" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1584816767844" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584727932993">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1584727932993" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1584897803819">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584897803819" />
+    <state width="1237" height="184" key="GridCell.Tab.0.bottom" timestamp="1584899151991">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="184" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584899151991" />
+    <state width="1237" height="184" key="GridCell.Tab.0.center" timestamp="1584899151991">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="184" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584899151991" />
+    <state width="1237" height="184" key="GridCell.Tab.0.left" timestamp="1584899151991">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="184" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584899151991" />
+    <state width="1237" height="184" key="GridCell.Tab.0.right" timestamp="1584899151991">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="184" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584899151991" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1584868427008">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584868427008" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1584868427008">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1584868427008" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1584868427008">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1584868427008" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1584868427008">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1584868427008" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1584898093701">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584898093701" />
+    <state x="521" y="135" key="UIDesigner.ListEditorDialog" timestamp="1584788105298">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="521" y="135" key="UIDesigner.ListEditorDialog/0.0.1280.680@0.0.1280.680" timestamp="1584788105298" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1584728289114">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1584728289114" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1584892642220">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584892642220" />
+    <state x="91" y="0" key="new project wizard" timestamp="1584367390356">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1584367390356" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1584726898868">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1584726898868" />
+  </component>
+</project>
