@@ -84,44 +84,44 @@ public class Field {
 
         /*Устанавливаем иконки для окна и кнопок*/
         frame.setIconImage((new ImageIcon(getClass().getResource("img/icon.jpg")).getImage()));
-        btn0.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/icon.jpg")))
+        btn0.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("/img/icon.jpg")))
                 .getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH)));
-        btn1.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/icon.jpg")))
+        btn1.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("/img/icon.jpg")))
                 .getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH)));
-        btn2.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/icon.jpg")))
+        btn2.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("/img/icon.jpg")))
                 .getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH)));
-        btn3.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/icon.jpg")))
+        btn3.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("/img/icon.jpg")))
                 .getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH)));
-        btn4.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/icon.jpg")))
+        btn4.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("/img/icon.jpg")))
                 .getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH)));
-        btn5.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/icon.jpg")))
+        btn5.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("/img/icon.jpg")))
                 .getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH)));
-        btn6.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/icon.jpg")))
+        btn6.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("/img/icon.jpg")))
                 .getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH)));
-        btn7.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/icon.jpg")))
+        btn7.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("/img/icon.jpg")))
                 .getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH)));
-        btn8.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/icon.jpg")))
+        btn8.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("/img/icon.jpg")))
                 .getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH)));
-        btn9.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/icon.jpg")))
+        btn9.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("/img/icon.jpg")))
                 .getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH)));
-        btn10.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/icon.jpg")))
+        btn10.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("/img/icon.jpg")))
                 .getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH)));
-        btn11.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/icon.jpg")))
+        btn11.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("/img/icon.jpg")))
                 .getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH)));
-        btn12.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/icon.jpg")))
+        btn12.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("/img/icon.jpg")))
                 .getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH)));
-        btn13.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/icon.jpg")))
+        btn13.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("/img/icon.jpg")))
                 .getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH)));
-        btn14.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/icon.jpg")))
+        btn14.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("/img/icon.jpg")))
                 .getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH)));
-        btn15.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/icon.jpg")))
+        btn15.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("/img/icon.jpg")))
                 .getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH)));
         frame.setVisible(true);
 
         /*Создаем коллекцию изображений. Перемешиваем*/
         images = new ArrayList<>();
         for (int i = 0; i < 8; i++) {
-            ImageIcon img = new ImageIcon(getClass().getResource("img/pic" + i + ".jpg"));
+            ImageIcon img = new ImageIcon(getClass().getResource("/img/pic" + i + ".jpg"));
             img = new ImageIcon(img.getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH));
             images.add(img);
         }
@@ -326,7 +326,7 @@ public class Field {
                 firstImage = null;
                 secondImage = null;
             }
-            if (successCount == 8) { // если открыты все карточки
+            if (successCount == 1) { // если открыты все карточки
                 ArrayList<String[]> records;
                 Records rec = new Records();// создаем экземпляр Records, конструктор которого читает файл
                 records = rec.records;

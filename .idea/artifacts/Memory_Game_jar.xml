@@ -1,8 +1,10 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="Memory Game:jar">
+  <artifact type="jar" build-on-make="true" name="Memory Game:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/Memory_Game_jar</output-path>
-    <root id="archive" name="Memory Game.jar">
+    <root id="archive" name="Memory Game_jar.jar">
       <element id="module-output" name="Memory Game" />
+      <element id="module-source" name="Memory Game" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources/img" />
     </root>
   </artifact>
 </component>

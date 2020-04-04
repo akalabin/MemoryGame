@@ -20,7 +20,7 @@ public class Congrats extends JDialog {
         setPreferredSize(new Dimension(450, 350));
         setResizable(false);
         pack();
-        lblPic.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/picDialog.jpg")))
+        lblPic.setIcon(new ImageIcon((new ImageIcon(getClass().getResource("img/picDialog.JPG")))
                 .getImage().getScaledInstance(200, 100, Image.SCALE_SMOOTH)));
         lblYourTime.setText("Ты справился за " + lblTime.getText());
         setLocationRelativeTo(null);
