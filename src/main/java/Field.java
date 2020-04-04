@@ -326,7 +326,7 @@ public class Field {
                 firstImage = null;
                 secondImage = null;
             }
-            if (successCount == 1) { // если открыты все карточки
+            if (successCount == 8) { // если открыты все карточки
                 ArrayList<String[]> records;
                 Records rec = new Records();// создаем экземпляр Records, конструктор которого читает файл
                 records = rec.records;
